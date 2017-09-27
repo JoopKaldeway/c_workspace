@@ -1,0 +1,1 @@
+Debug/26_local_static_variable_demo.c.o: 26_local_static_variable_demo.c

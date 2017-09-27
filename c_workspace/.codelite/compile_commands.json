@@ -1,0 +1,17 @@
+[{
+  "directory": "E:\\c_ont_omg\\c_codelite_workspace\\c_workspace\\35_stack_demo",
+  "command": "C:/TDM-GCC-32/bin/gcc.exe -g -O0 -Wall -I. -I. -MG -MP -MT./Debug/main.c.o -MF./Debug/main.c.o.d -MM main.c",
+  "file": "E:\\c_ont_omg\\c_codelite_workspace\\c_workspace\\35_stack_demo\\main.c"
+ }, {
+  "directory": "E:\\c_ont_omg\\c_codelite_workspace\\c_workspace\\35_stack_demo",
+  "command": "C:/TDM-GCC-32/bin/gcc.exe -g -O0 -Wall -I. -I. -MG -MP -MT./Debug/stack.c.o -MF./Debug/stack.c.o.d -MM stack.c",
+  "file": "E:\\c_ont_omg\\c_codelite_workspace\\c_workspace\\35_stack_demo\\stack.c"
+ }, {
+  "directory": "E:\\c_ont_omg\\c_codelite_workspace\\c_workspace\\35_stack_demo",
+  "command": "C:/TDM-GCC-32/bin/gcc.exe -c E:/c_ont_omg/c_codelite_workspace/c_workspace/35_stack_demo/main.c -g -O0 -Wall -o ./Debug/main.c.o -I. -I.",
+  "file": "E:\\c_ont_omg\\c_codelite_workspace\\c_workspace\\35_stack_demo\\main.c"
+ }, {
+  "directory": "E:\\c_ont_omg\\c_codelite_workspace\\c_workspace\\35_stack_demo",
+  "command": "C:/TDM-GCC-32/bin/gcc.exe -c E:/c_ont_omg/c_codelite_workspace/c_workspace/35_stack_demo/stack.c -g -O0 -Wall -o ./Debug/stack.c.o -I. -I.",
+  "file": "E:\\c_ont_omg\\c_codelite_workspace\\c_workspace\\35_stack_demo\\stack.c"
+ }]
