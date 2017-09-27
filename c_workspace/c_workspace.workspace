@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="c_workspace" Database="" Version="10.0.0">
-  <Project Name="01_eerste_C_programma" Path="01_eerste_C_programma/01_eerste_C_programma.project" Active="No"/>
+  <Project Name="01_eerste_C_programma" Path="01_eerste_C_programma/01_eerste_C_programma.project" Active="Yes"/>
   <Project Name="02_int_demo" Path="02_int_demo/02_int_demo.project" Active="No"/>
   <Project Name="03_printf_demo" Path="03_printf_demo/03_printf_demo.project" Active="No"/>
   <Project Name="04_hexadecimaal_octaal_demo" Path="04_hexadecimaal_octaal_demo/04_hexadecimaal_octaal_demo.project" Active="No"/>
@@ -33,7 +33,7 @@
   <Project Name="32_multiple_source_files_demo" Path="32_multiple_source_files_demo/32_multiple_source_files_demo.project" Active="No"/>
   <Project Name="33_macro_demo" Path="33_macro_demo/33_macro_demo.project" Active="No"/>
   <Project Name="34_recursive_function_demo" Path="34_recursive_function_demo/34_recursive_function_demo.project" Active="No"/>
-  <Project Name="35_stack_demo" Path="35_stack_demo/35_stack_demo.project" Active="Yes"/>
+  <Project Name="35_stack_demo" Path="35_stack_demo/35_stack_demo.project" Active="No"/>
   <Project Name="27_function_parameter_demo" Path="27_function_parameter_demo/27_function_parameter_demo.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
