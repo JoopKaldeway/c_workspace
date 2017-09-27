@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("Yes we can");
+    printf("Yes we can!");
 
     return 0;
 }
